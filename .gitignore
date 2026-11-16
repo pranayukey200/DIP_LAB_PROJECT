@@ -1,0 +1,18 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset caches (downloaded dynamically on demand)
+saved_model/imagenette_cache/
+*.tgz
+*.tar.gz
+
+# Temporary and environment files
+~$*
+.venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

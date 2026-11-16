@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-11-16T15:10:56.487282",
+  "num_images": 20,
+  "accuracy": 0.55,
+  "auroc": 0.8585858585858586,
+  "high_trust_accuracy": 0.8,
+  "low_trust_accuracy": 0.3,
+  "note": "EXPLORATORY RESULTS - small sample size"
+}
